@@ -280,6 +280,7 @@
 -  [Nikolai Ruilova](https://github.com/NikoRuBln)
 -  [Samrat Ghosh](https://github.com/samratghosh291)
 -  [spideyWebb](https://github.com/spideyWebb)
+-  [Rock-jordan](https://github.com/Rock-jordan)
 -  [Lee Eros Galaad Dias de Moura](https://github.com/LeeEros)
 -  [Luke Wardle](https://github.com/LukeWardle)
 -  [Lukas Howlett](https://github.com/Lukas-Howlett)
